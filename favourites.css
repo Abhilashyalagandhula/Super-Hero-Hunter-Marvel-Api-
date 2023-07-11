@@ -1,0 +1,35 @@
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/969/421/253/marvel-10-year-anniversary-superheroes-4k-8k-wallpaper-preview.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#favlistitem {
+  display: flex;
+  align-items: flex-start;
+}
+
+#outerbox {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+#innerbox {
+  margin: 10px;
+}
+
+h5 {
+  margin-left: 10px;
+}
+
+button {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+#innerbox img {
+  height: 300px;
+  width: 200px;
+}
